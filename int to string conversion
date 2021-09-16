@@ -1,0 +1,4 @@
+int var=111;
+String str= 
+String.valueOf(var);
+system.out.println(555+str);
