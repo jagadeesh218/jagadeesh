@@ -1,0 +1,9 @@
+public class stringimmutable 
+{
+    public static void main(string args[])
+    {
+        String s="JavaStrings";
+        s.concat("CheatSheet");
+        system.out.println(s);
+    }
+}
